@@ -1,3 +1,4 @@
+//FIZZBUZZ
 let output = [];
 let number = 1;
 
@@ -17,3 +18,4 @@ function fizzBuzz() {
 	console.log(output);
 }
 fizzBuzz();
+//end
